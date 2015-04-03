@@ -15,6 +15,8 @@ public class TargetPage extends BaseClass{
 		
 		TargetPage targetPage =  new TargetPage(driver);
 		WebDriverWait wait = new WebDriverWait(driver, 5); 
+		
+		//Calling function to launcg Main Page of espn.go.com
 		targetPage.launchPage();
 
 		// wait until page get loaded	
@@ -26,14 +28,17 @@ public class TargetPage extends BaseClass{
         // click on NFL link
         NFLLink.click();
         
-        //click on Score link
+        //get Scores url web element
         WebElement scoreLink = driver.findElement(By.xpath("/html/body/div[5]/div[2]/header/nav[1]/ul/li[1]/div/ul[1]/li[3]/a/span[1]"));
+        
+        //click on Score link
         scoreLink.click();
 		
         return new TargetPage(driver);
 		
-	}
+	}	
 	
+	//get function get title of a page
 	public String getPageTitle()
 	{
 		String title = driver.getTitle();
