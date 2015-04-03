@@ -96,7 +96,7 @@
         <mkdir dir="${junit.output.dir}"/>
         <junit fork="yes" printsummary="withOutAndErr">
             <formatter type="xml"/>
-            <test name="espn.automate.test.VerifyPageTitle" todir="${junit.output.dir}"/>
+            <test name="espn.automate.suit.VerifyPageTitle" todir="${junit.output.dir}"/>
             <classpath refid="DemoAuto.classpath"/>
         </junit>
     </target>

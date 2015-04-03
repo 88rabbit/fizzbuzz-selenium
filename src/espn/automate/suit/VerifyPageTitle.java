@@ -1,4 +1,4 @@
-package espn.automate.test;
+package espn.automate.suit;
 
 import org.junit.*;
 import org.openqa.selenium.WebDriver;
