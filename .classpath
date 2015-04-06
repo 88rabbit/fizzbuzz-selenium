@@ -40,8 +40,6 @@
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/libs/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/selenium-java-2.45.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/selenium-java-2.45.0-srcs.jar"/>
-	<classpathentry kind="var" path="JUNIT_HOME"/>
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/junit.jar"/>
-	<classpathentry kind="var" path="JUNIT_HOME/junit.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
