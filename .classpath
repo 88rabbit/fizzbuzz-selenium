@@ -27,7 +27,6 @@
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/libs/jetty-websocket-8.1.8.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/libs/jna-3.4.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/libs/jna-platform-3.4.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/libs/junit-dep-4.11.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/libs/nekohtml-1.9.21.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/libs/netty-3.5.7.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/libs/operadriver-1.5.jar"/>
@@ -41,5 +40,8 @@
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/libs/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/selenium-java-2.45.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/selenium-2.45.0/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry kind="var" path="JUNIT_HOME"/>
+	<classpathentry kind="lib" path="C:/Users/Swapna/Downloads/junit.jar"/>
+	<classpathentry kind="var" path="JUNIT_HOME/junit.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
